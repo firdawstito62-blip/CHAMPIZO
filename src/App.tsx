@@ -15,6 +15,7 @@ import { FormationSection } from './components/FormationSection';
 import { ChefSecretsSection } from './components/ChefSecretsSection';
 import { SeasonalCalendar } from './components/SeasonalCalendar';
 import { PromoBanner } from './components/PromoBanner';
+import { AdBanner } from './components/AdBanner';
 import { Footer } from './components/Footer';
 import { Filter, SlidersHorizontal, RotateCcw, Bookmark, Sparkles } from 'lucide-react';
 
@@ -354,6 +355,9 @@ export default function App() {
         )}
 
       </main>
+
+      {/* Emplacement Publicitaire Partenaire */}
+      <AdBanner />
 
       {/* Guide Botanique & Variétés */}
       <MushroomGuideSection
