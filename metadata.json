@@ -1,0 +1,6 @@
+{
+  "name": "Sous-Bois — Recettes & Gastronomie Mycologique",
+  "description": "Découvrez l'art de cuisiner les champignons sauvages et de cueillette : recettes gourmandes de chefs, dosages interactifs, minuteurs intégrés et accords mets-vins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
